@@ -1,0 +1,2 @@
+insert into expressions (expression, name)
+values ('(customer.firstName == "JOHN" && customer.salary < 100) OR (customer.address != null && customer.address.city == "Washington")', 'Complex logical expression');
