@@ -4,7 +4,7 @@ Spring Framework API that evaluates logical expressions. This is a Spring boot 3
 
 ## App
 
-**Prerequisites**: It is required to have **Maven** and **Java** installed and configured to run this app.
+**Prerequisites**: It is required to have **Maven** and **Java 17** installed and configured to run this app.
 
 To run the application execute this command in the terminal:
 
